@@ -1,0 +1,12 @@
+
+For the static image detector
+Do 
+'cd /Users/shivo/Desktop/objectdetection/staticimage.py'
+Then do 
+'python staticimage.py'
+
+For the video one
+'python rttest.py'
+
+
+Do 'control + c' to stop the program
