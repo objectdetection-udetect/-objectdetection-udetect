@@ -4,6 +4,9 @@ remember to subscribe to the fluffy snowman
 to run the object detection python files you must first have python installed on ur terminal(bash/cmd).
 make sure you have the 'pip' command installed
 after these steps type in these commands into the terminal:
+
+download https://github.com/OlafenwaMoses/ImageAI/releases/download/1.0/yolo.h5 and move it into the object detection folder
+
 'pip3' can be replaced by 'pip' too 
 pip3 install --upgrade tensorflow
 pip3 install tensorflow
