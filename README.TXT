@@ -7,6 +7,10 @@ after these steps type in these commands into the terminal:
 
 download https://github.com/OlafenwaMoses/ImageAI/releases/download/1.0/yolo.h5 and move it into the object detection folder
 
+install keras https://github.com/keras-team/keras-contrib and amke sure you have DenseNet installed 
+
+download and install https://www.kaggle.com/keras/resnet50
+
 'pip3' can be replaced by 'pip' too 
 pip3 install --upgrade tensorflow
 pip3 install tensorflow
